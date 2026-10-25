@@ -1,5 +1,5 @@
 # Making Manager Quality and Career Progression Visible
-*A two-page proposal for Razorpay People Operations, by Annwesha*
+*A two-page proposal for Razorpay People Operations, by Annwesha Chakrabarty*
 
 ## The observation
 Anonymous employee feedback about fast-growing fintechs often says two things: the experience depends heavily on the manager, and the path to promotion isn't clear. Both are fixable by People Operations, and both are measurable.
