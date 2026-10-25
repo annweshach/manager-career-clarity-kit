@@ -1,0 +1,5 @@
+# Keep any real people data out of the repository
+data/real/
+*.private.csv
+.DS_Store
+__pycache__/
